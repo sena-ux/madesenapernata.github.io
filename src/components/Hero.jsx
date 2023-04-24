@@ -36,7 +36,7 @@ const Hero = () => {
               >
                 <h3>{content.count}</h3>
                 <p>{content.text}</p>
-              </div>
+              </div> 
             ))}
           </div> 
         </div>
