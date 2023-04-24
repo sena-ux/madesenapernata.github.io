@@ -38,7 +38,7 @@ const Hero = () => {
                 <p>{content.text}</p>
               </div>
             ))}
-          </div>
+          </div> 
         </div>
 
         {/* sec col */}
